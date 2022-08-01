@@ -7,4 +7,7 @@ An Android application that allows the user to view different types of memes.
 ## Loaded Meme
 !['Loaded Meme'](loadedMeme.png)
 
+## Moving to the Next Meme by Clicking on the "Next" Button.
+!['Next Meme'](movingNext.png)
+
 
