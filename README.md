@@ -10,4 +10,7 @@ An Android application that allows the user to view different types of memes.
 ## Moving to the Next Meme by Clicking on the "Next" Button.
 !['Next Meme'](movingNext.png)
 
+## Sharing a Meme by Clicking on the "Share" Button.
+!['Sharing Meme'](shareMeme.png)
+
 
