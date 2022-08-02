@@ -3,7 +3,7 @@ An Android application that allows the user to view different types of memes.
 
 ## Features:
 1. Enables the user to view unlimited number of memes.
-2. Enables the user to share the memees that he/she likes on a number of different platforms.
+2. Enables the user to share the memes that he/she likes on a number of different platforms.
 
 ## Memes Being Loaded (Landing Page)
 !['Loading Memes'](memesLoading.png)
